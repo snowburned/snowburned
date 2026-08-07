@@ -27,17 +27,17 @@
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
-│  CHAOS SYSTEM v3.2                                                │
-│  INITIALIZING SEQUENCE...                                         │
-│                                                                    │
+│  CHAOS SYSTEM v3.2                                               │
+│  INITIALIZING SEQUENCE...                                        │
+│                                                                  │
 │  [████████████████████████████████████████████] 100%             │
-│                                                                    │
-│  STATUS ............ ONLINE                                       │
-│  ACCESS ............ GRANTED                                      │
-│  COORDS ............ 0xFF1A1A // SECTOR-07                        │
-│  USER ID ........... snowburned                                  │
-│                                                                    │
-│  >> WELCOME BACK, OPERATOR.                                       │
+│                                                                  │
+│  STATUS ............ ONLINE                                      │
+│  ACCESS ............ GRANTED                                     │
+│  COORDS ............ 0xFF1A1A // SECTOR-07                       │
+│  USER ID ........... snowburn                                    │
+│                                                                  │
+│  >> WELCOME BACK, OPERATOR.                                      │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
@@ -86,14 +86,11 @@
 <td width="50%" valign="top">
 
 ```
-> whoami
+> Who I am?
 ```
 
 - 🩸 Desenvolvedor **Full Stack**
-- ⚙️ Apaixonado por **Tecnologia**
-- 🧠 Estudo aplicado de **Inteligência Artificial**
 - 🌐 **Desenvolvimento Web** de ponta a ponta
-- 📦 Contribuidor de projetos **Open Source**
 - 🎯 Foco em **UI/UX** de alto padrão
 - 🤖 Criação de **Automações**
 - ♾️ **Sempre aprendendo**, sempre evoluindo
@@ -216,11 +213,11 @@ Uma plataforma inteligente para organizar seus estudos, acompanhar seu progresso
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Projeto Omega
+### ⚡ Projeto Andrade Garage
 
 `SYSTEM ONLINE` `v2.3`
 
-Descrição curta e direta do que o projeto resolve e por que ele importa.
+Sistema de organização e gerenciamento de uma garagem automotiva.
 
 **Stack:** `Next.js` `TypeScript` `MongoDB`
 
@@ -229,49 +226,7 @@ Descrição curta e direta do que o projeto resolve e por que ele importa.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1A1A)](https://github.com/snowburned/projeto-omega)
-[![Demo](https://img.shields.io/badge/Demo-990000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-link-demo.com)
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🖤 Projeto Nemesis
-
-`SYSTEM ONLINE` `v1.4`
-
-Descrição curta e direta do que o projeto resolve e por que ele importa.
-
-**Stack:** `Python` `FastAPI` `Docker`
-
-**Status:** 🟢 Em produção
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1A1A)](https://github.com/snowburned/projeto-nemesis)
-[![Demo](https://img.shields.io/badge/Demo-990000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-link-demo.com)
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-### 🔺 Projeto Vector
-
-`SYSTEM STANDBY` `v0.9`
-
-Descrição curta e direta do que o projeto resolve e por que ele importa.
-
-**Stack:** `Java` `Spring` `MySQL`
-
-**Status:** 🔴 Pausado
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1A1A)](https://github.com/snowburned/projeto-vector)
-[![Demo](https://img.shields.io/badge/Demo-990000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-link-demo.com)
+[![Demo](https://img.shields.io/badge/Demo-990000?style=for-the-badge&logo=vercel&logoColor=white)](https://andrade-garage.vercel.app/)
 
 </div>
 

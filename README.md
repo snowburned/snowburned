@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/snowburned/snowburned/main/assets/chaos-hero.png" width="70%" alt="chaos-art"/>
+<img src="https://raw.githubusercontent.com/snowburned/snowburned/main/chaos-hero.png" width="70%" alt="chaos-art"/>
 
 </div>
 

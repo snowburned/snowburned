@@ -3,10 +3,10 @@
   CHAOS SYSTEM // README.md
   ------------------------------------------------------------------
   ANTES DE USAR, SUBSTITUA:
-  - SEU-USUARIO         -> seu usuário do GitHub
-  - seu-usuario         -> minúsculo, usado nas URLs do github-readme-stats
+  - snowburned         -> seu usuário do GitHub
+  - snowburned         -> minúsculo, usado nas URLs do github-readme-stats
   - seu-email@dominio   -> seu e-mail
-  - seu-usuario-linkedin, seu-usuario-instagram, seu-usuario-discord
+  - snowburned-linkedin, snowburned-instagram, snowburned-discord
   - Links de "Demo" e "GitHub" dos projetos
   - URL da sua arte / avatar na seção HERO (marcado como PLACEHOLDER)
 
@@ -35,7 +35,7 @@
 │  STATUS ............ ONLINE                                       │
 │  ACCESS ............ GRANTED                                      │
 │  COORDS ............ 0xFF1A1A // SECTOR-07                        │
-│  USER ID ........... SEU-USUARIO                                  │
+│  USER ID ........... snowburned                                  │
 │                                                                    │
 │  >> WELCOME BACK, OPERATOR.                                       │
 └──────────────────────────────────────────────────────────────────┘
@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/main/assets/chaos-hero.png" width="70%" alt="chaos-art"/>
+<img src="https://raw.githubusercontent.com/snowburned/snowburned/main/assets/chaos-hero.png" width="70%" alt="chaos-art"/>
 
 </div>
 
@@ -208,7 +208,7 @@ Descrição curta e direta do que o projeto resolve e por que ele importa.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1A1A)](https://github.com/SEU-USUARIO/projeto-alpha)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1A1A)](https://github.com/snowburned/projeto-alpha)
 [![Demo](https://img.shields.io/badge/Demo-990000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-link-demo.com)
 
 </div>
@@ -228,7 +228,7 @@ Descrição curta e direta do que o projeto resolve e por que ele importa.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1A1A)](https://github.com/SEU-USUARIO/projeto-omega)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1A1A)](https://github.com/snowburned/projeto-omega)
 [![Demo](https://img.shields.io/badge/Demo-990000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-link-demo.com)
 
 </div>
@@ -250,7 +250,7 @@ Descrição curta e direta do que o projeto resolve e por que ele importa.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1A1A)](https://github.com/SEU-USUARIO/projeto-nemesis)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1A1A)](https://github.com/snowburned/projeto-nemesis)
 [![Demo](https://img.shields.io/badge/Demo-990000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-link-demo.com)
 
 </div>
@@ -270,7 +270,7 @@ Descrição curta e direta do que o projeto resolve e por que ele importa.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1A1A)](https://github.com/SEU-USUARIO/projeto-vector)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1A1A)](https://github.com/snowburned/projeto-vector)
 [![Demo](https://img.shields.io/badge/Demo-990000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-link-demo.com)
 
 </div>
@@ -316,16 +316,16 @@ operator@chaos-system:~$ _
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=FF1A1A&icon_color=FF1A1A&text_color=AAAAAA&ring_color=FF1A1A" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF1A1A&text_color=AAAAAA&langs_count=8" width="41%" />
+<img src="https://github-readme-stats.vercel.app/api?username=snowburned&show_icons=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=FF1A1A&icon_color=FF1A1A&text_color=AAAAAA&ring_color=FF1A1A" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowburned&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF1A1A&text_color=AAAAAA&langs_count=8" width="41%" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&hide_border=true&background=0D0D0D&ring=FF1A1A&fire=FF1A1A&currStreakLabel=FF1A1A&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" width="90%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=snowburned&hide_border=true&background=0D0D0D&ring=FF1A1A&fire=FF1A1A&currStreakLabel=FF1A1A&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" width="90%"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=seu-usuario&theme=react-dark&bg_color=0D0D0D&color=FF1A1A&line=FF1A1A&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=snowburned&theme=react-dark&bg_color=0D0D0D&color=FF1A1A&line=FF1A1A&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -339,7 +339,7 @@ operator@chaos-system:~$ _
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&column=7" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=snowburned&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&column=7" width="95%"/>
 
 </div>
 
@@ -354,7 +354,7 @@ operator@chaos-system:~$ _
 <div align="center">
 
 <!-- Gerado automaticamente via GitHub Action (Platane/snk) -->
-<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/snowburned/snowburned/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
 </div>
 
@@ -368,10 +368,10 @@ operator@chaos-system:~$ _
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1A1A)](https://github.com/SEU-USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF1A1A)](https://linkedin.com/in/seu-usuario-linkedin)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF1A1A)](https://instagram.com/seu-usuario-instagram)
-[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FF1A1A)](https://discord.com/users/seu-usuario-discord)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1A1A)](https://github.com/snowburned)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF1A1A)](https://linkedin.com/in/snowburned-linkedin)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF1A1A)](https://instagram.com/snowburned-instagram)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FF1A1A)](https://discord.com/users/snowburned-discord)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF1A1A)](mailto:seu-email@dominio.com)
 
 </div>

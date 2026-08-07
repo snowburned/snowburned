@@ -3,10 +3,10 @@
   CHAOS SYSTEM // README.md
   ------------------------------------------------------------------
   ANTES DE USAR, SUBSTITUA:
-  - snowburned         -> seu usuário do GitHub
-  - snowburned         -> minúsculo, usado nas URLs do github-readme-stats
+  - SEU-USUARIO         -> seu usuário do GitHub
+  - seu-usuario         -> minúsculo, usado nas URLs do github-readme-stats
   - seu-email@dominio   -> seu e-mail
-  - João Pedro Barbosa, @Jotapezx, snowburn_
+  - seu-usuario-linkedin, seu-usuario-instagram, seu-usuario-discord
   - Links de "Demo" e "GitHub" dos projetos
   - URL da sua arte / avatar na seção HERO (marcado como PLACEHOLDER)
 
@@ -45,10 +45,7 @@
 
 <div align="center">
 
-<!-- PLACEHOLDER: substitua pela sua arte/avatar estilizado -->
-<img src="[https://i.pinimg.com/736x/5e/68/63/5e68631040150f561512a3b20fe6ecf4.jpg)" width="70%" alt="chaos-art"/>
-
-<sub>▲ substitua esta imagem por uma arte autoral / avatar tratado, sem uso de personagens protegidos por direitos autorais ▲</sub>
+<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/main/assets/chaos-hero.png" width="70%" alt="chaos-art"/>
 
 </div>
 
@@ -93,7 +90,10 @@
 ```
 
 - 🩸 Desenvolvedor **Full Stack**
+- ⚙️ Apaixonado por **Tecnologia**
 - 🧠 Estudo aplicado de **Inteligência Artificial**
+- 🌐 **Desenvolvimento Web** de ponta a ponta
+- 📦 Contribuidor de projetos **Open Source**
 - 🎯 Foco em **UI/UX** de alto padrão
 - 🤖 Criação de **Automações**
 - ♾️ **Sempre aprendendo**, sempre evoluindo
@@ -196,7 +196,7 @@ SYSTEM.LOG
 <tr>
 <td width="50%" valign="top">
 
-### 🩸 Projeto Aprova+
+### 🩸 Projeto Alpha
 
 `SYSTEM ONLINE` `v1.0`
 

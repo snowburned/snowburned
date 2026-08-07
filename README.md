@@ -196,20 +196,20 @@ SYSTEM.LOG
 <tr>
 <td width="50%" valign="top">
 
-### 🩸 Projeto Alpha
+### 🩸 Projeto Aprova+ Enem
 
 `SYSTEM ONLINE` `v1.0`
 
-Descrição curta e direta do que o projeto resolve e por que ele importa.
+Uma plataforma inteligente para organizar seus estudos, acompanhar seu progresso e potencializar sua preparação.
 
 **Stack:** `React` `Node.js` `PostgreSQL`
 
-**Status:** 🟢 Em produção
+**Status:** 🟢 Finalizado
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1A1A)](https://github.com/snowburned/projeto-alpha)
-[![Demo](https://img.shields.io/badge/Demo-990000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-link-demo.com)
+[![Link](https://img.shields.io/badge/Demo-990000?style=for-the-badge&logo=vercel&logoColor=white)](https://study-pro-br.vercel.app/)
 
 </div>
 
@@ -303,58 +303,6 @@ operator@chaos-system:~$ cat current_mission.log
 
 operator@chaos-system:~$ _
 ```
-
-</div>
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
-## `◈` GITHUB ANALYTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=snowburned&show_icons=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=FF1A1A&icon_color=FF1A1A&text_color=AAAAAA&ring_color=FF1A1A" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowburned&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF1A1A&text_color=AAAAAA&langs_count=8" width="41%" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=snowburned&hide_border=true&background=0D0D0D&ring=FF1A1A&fire=FF1A1A&currStreakLabel=FF1A1A&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" width="90%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snowburned&theme=react-dark&bg_color=0D0D0D&color=FF1A1A&line=FF1A1A&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
-## `◈` TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=snowburned&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&column=7" width="95%"/>
-
-</div>
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
-## `◈` SNAKE CONTRIBUTION
-
-<div align="center">
-
-<!-- Gerado automaticamente via GitHub Action (Platane/snk) -->
-<img src="https://raw.githubusercontent.com/snowburned/snowburned/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
 </div>
 

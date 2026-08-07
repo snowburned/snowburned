@@ -369,10 +369,10 @@ operator@chaos-system:~$ _
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1A1A)](https://github.com/snowburned)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF1A1A)](https://linkedin.com/in/snowburned-linkedin)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF1A1A)](https://instagram.com/snowburned-instagram)
-[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FF1A1A)](https://discord.com/users/snowburned-discord)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF1A1A)](mailto:seu-email@dominio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF1A1A)](https://www.linkedin.com/in/jo%C3%A3o-pedro-barbosa-de-abreu-b73b4127a/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF1A1A)](https://instagram.com/jotapezx)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FF1A1A)](https://discord.com/users/snowburn_)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF1A1A)](mailto:smowburn999666@gmail.com)
 
 </div>
 

@@ -46,7 +46,7 @@
 <div align="center">
 
 <!-- PLACEHOLDER: substitua pela sua arte/avatar estilizado -->
-<img src="[https://via.placeholder.com/900x260/0d0d0d/ff1a1a?text=%5B+SUA+ARTE+AQUI+%5D](https://i.pinimg.com/736x/d1/16/bc/d116bc5424ad27893714877584da7994.jpg)" width="70%" alt="chaos-art"/>
+<img src="[https://i.pinimg.com/736x/5e/68/63/5e68631040150f561512a3b20fe6ecf4.jpg)" width="70%" alt="chaos-art"/>
 
 <sub>▲ substitua esta imagem por uma arte autoral / avatar tratado, sem uso de personagens protegidos por direitos autorais ▲</sub>
 
@@ -93,10 +93,7 @@
 ```
 
 - 🩸 Desenvolvedor **Full Stack**
-- ⚙️ Apaixonado por **Tecnologia**
 - 🧠 Estudo aplicado de **Inteligência Artificial**
-- 🌐 **Desenvolvimento Web** de ponta a ponta
-- 📦 Contribuidor de projetos **Open Source**
 - 🎯 Foco em **UI/UX** de alto padrão
 - 🤖 Criação de **Automações**
 - ♾️ **Sempre aprendendo**, sempre evoluindo
@@ -199,7 +196,7 @@ SYSTEM.LOG
 <tr>
 <td width="50%" valign="top">
 
-### 🩸 Projeto Alpha
+### 🩸 Projeto Aprova+
 
 `SYSTEM ONLINE` `v1.0`
 

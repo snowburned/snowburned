@@ -46,7 +46,7 @@
 <div align="center">
 
 <!-- PLACEHOLDER: substitua pela sua arte/avatar estilizado -->
-<img src="https://via.placeholder.com/900x260/0d0d0d/ff1a1a?text=%5B+SUA+ARTE+AQUI+%5D" width="70%" alt="chaos-art"/>
+<img src="[https://via.placeholder.com/900x260/0d0d0d/ff1a1a?text=%5B+SUA+ARTE+AQUI+%5D](https://i.pinimg.com/736x/d1/16/bc/d116bc5424ad27893714877584da7994.jpg)" width="70%" alt="chaos-art"/>
 
 <sub>▲ substitua esta imagem por uma arte autoral / avatar tratado, sem uso de personagens protegidos por direitos autorais ▲</sub>
 
